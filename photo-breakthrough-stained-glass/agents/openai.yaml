@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Breakthrough Stained Glass"
+  short_description: "Photo-led fractured stained glass"
+  default_prompt: "Use $photo-breakthrough-stained-glass to preserve the supplied photo subject while making it break through fractured stained glass."
